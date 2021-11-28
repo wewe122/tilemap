@@ -2,6 +2,7 @@
 with our changes
 
 
+<div dir='rtl' lang='he'>
 
 <br>
                                                                                                                        סעיף ה        
